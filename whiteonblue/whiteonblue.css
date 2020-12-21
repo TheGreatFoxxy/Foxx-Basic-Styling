@@ -1,0 +1,31 @@
+/** White on Blue CSS Styling for Foxx Webpages with button and text handling **/
+
+html {
+background-color: blue,
+color: white
+}
+h1, h2, h3, h4, h5, h6, h7, h8 {
+color: black,
+text-decoration: underline
+}
+p, li {
+color: black,
+text-decoration: underline
+}
+div {
+background-color: ghost-white,
+color: black
+}
+button {
+background-color: grey,
+color: black,
+border-radius: 25px
+}
+button:hover {
+outline-style: dashed,
+outline-color: white
+}
+button:acive {
+outline-style: dashed,
+outline-color: green
+}
