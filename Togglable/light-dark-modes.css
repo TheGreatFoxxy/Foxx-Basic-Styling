@@ -1,0 +1,10 @@
+/** A Light-Dark Mode styling sheet that works well with Applets/ToggleBackgroundColors.js **/
+
+.light-mode {
+background-color: yellow;
+color: black
+}
+.dark-mode {
+background-color: black;
+color: white
+}
